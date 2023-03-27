@@ -12,7 +12,9 @@ Our analysis is presented in the form of a Jupyter notebook, where we use Python
 The repository contains the following files:
 
 README.md: This file provides an overview of the repository.
+
 notebook.ipynb: This is the Jupyter notebook where we analyze the AB-test results.
+
 cookie_cats.csv: This file contains the raw data used in the analysis.
 
 # Conclusion
