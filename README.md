@@ -15,7 +15,7 @@ README.md: This file provides an overview of the repository.
 
 notebook.ipynb: This is the Jupyter notebook where we analyze the AB-test results.
 
-cookie_cats.csv: This file contains the raw data used in the analysis.
+datasets/cookie_cats.csv: This file contains the raw data used in the analysis.
 
 # Conclusion
 The analysis shows that there is strong evidence that 7-day retention is higher when the gate is at level 30 than when it is at level 40. 
